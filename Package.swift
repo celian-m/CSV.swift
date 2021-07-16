@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "CSV.swift",
+    name: "CSV",
     products: [
         .library(name: "CSV", targets: ["CSV"])
     ],
